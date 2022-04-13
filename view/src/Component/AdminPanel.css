@@ -1,0 +1,90 @@
+.signout_button{
+      padding: 0.5%;
+      float: right;
+}
+.col{
+      float: left;
+      width: 20%;
+      padding: 0 0;
+      margin: 20px 20px 15px 45px;
+  }
+  
+  .row{
+      margin: 0 -5px;
+      margin-top: 25px;
+  
+  }
+
+
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.productNameContainer{
+    padding: 0.5%;
+}
+.productDetailsContainer{
+      padding: 0.5%;
+}
+.productCountContainer{
+      padding: 0.5%;
+}
+.productPriceContainer{
+        padding: 0.5%;
+}
+.productOfferContainer{
+        padding: 0.5%;
+}
+.productImageContainer{
+        padding: 0.5%;
+}
+.buttonContainer{
+      padding: 0.5%;
+}
+
+.productName{
+      height: 40px;
+      width: 400px ;
+      color: rgb(230, 230, 215);  
+      background-color:rgb(8, 16, 22);
+      border: none;
+  
+}
+.productDetails{
+      height: 40px;
+      width: 400px ;
+      color: rgb(230, 230, 215);  
+      background-color:rgb(8, 16, 22);
+      border: none;
+}
+.productCount{
+      height: 40px;
+      width: 400px ;
+      color: rgb(230, 230, 215);  
+      background-color:rgb(8, 16, 22);
+      border: none;    
+}
+.productPrice{
+    height: 40px;
+    width: 400px ;
+    color: rgb(230, 230, 215);  
+    background-color:rgb(8, 16, 22);
+    border: none;    
+}
+.productOffer{
+    height: 40px;
+    width: 400px ;
+    color: rgb(230, 230, 215);  
+    background-color:rgb(8, 16, 22);
+    border: none;    
+}
+.productImage{
+    height: 40px;
+    width: 400px ;
+    color: rgb(230, 230, 215);  
+    background-color:rgb(8, 16, 22);
+    border: none;    
+}
+  

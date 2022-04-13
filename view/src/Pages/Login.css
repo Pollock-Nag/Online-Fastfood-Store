@@ -1,0 +1,36 @@
+
+.content{
+    color:#dbd8d8 ;
+    text-align: center;
+  
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(../images/food\ \(7\).jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height: 100%;
+    width: 100%;
+   
+    background-position: cover;
+    background-size:cover;
+    background-repeat: no-repeat; 
+      /* Set rules to fill background */
+ 
+ 
+
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+   
+      
+
+  }
+
+  
+  
+  
+  
+
+  

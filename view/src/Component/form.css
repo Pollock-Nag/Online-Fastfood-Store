@@ -1,0 +1,37 @@
+
+.nameContainer{
+  padding: 0.5%;
+  
+}
+.emailContainer{
+    padding: 0.5%;
+  }
+.passwordContainer{
+    padding: 0.5%;
+  }
+  .buttonContainer{
+    padding: 0.5%;
+  }
+.name{
+    height: 40px;
+    width: 400px ;
+    color: rgb(230, 230, 215);  
+    background-color:rgb(8, 16, 22);
+    border: none;
+
+}
+.email{
+    height: 40px;
+    width: 400px ;
+    color: rgb(230, 230, 215);  
+    background-color:rgb(8, 16, 22);
+    border: none;
+}
+.password{
+    height: 40px;
+    width: 400px ;
+    color: rgb(230, 230, 215);  
+    background-color:rgb(8, 16, 22);
+    border: none;    
+}
+
